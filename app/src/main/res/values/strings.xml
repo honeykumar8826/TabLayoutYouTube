@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabLayoutYouTube</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="inbox_fragment">Inbox Fragment</string>
+    <string name="library_fragment">Library Fragment</string>
+    <string name="subscription_fragment">Subscription Fragment</string>
+    <string name="trending_fragment">Trending Fragment</string>
+</resources>
